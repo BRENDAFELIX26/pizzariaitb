@@ -36,5 +36,5 @@ const Pizzas = [
       "imagem": atum
     },
   ]
-
+//Pica
   export default Pizzas;
